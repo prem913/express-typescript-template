@@ -1,0 +1,1 @@
+// can be used to put all the data fetching logic here in case anything changes we only change this file to fetch data
